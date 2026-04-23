@@ -49,4 +49,6 @@ Here, like in the original study, we notice that indeed the treatment lifts the 
 
 2. Randomization was done using same seed. Parameters a,b,c,d were used for KPI probabilities, with values trying to mimic the ones in the case study.
 
-3. Datasets lack real-world feeling, and obviously no dataset comes with ready made intent variable. But I wanted to conceptually show how bias could be created, in very simple terms.
+3. Data generation can be done with attached python file. The large datasets were omitted.
+
+4. Datasets lack real-world feeling, and obviously no dataset comes with ready made intent variable. But I wanted to conceptually show how bias could be created, in very simple terms.
