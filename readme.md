@@ -29,7 +29,7 @@ Similar to the first table presented in the case study. We observe a negative ch
 
 2. Next we analyze in dataset 1 the splits of subgroups high and low intent, and control and treatment groups, and notice the imbalance between treatment groups (query 2 in SQL file)
 
-3. We "redo" the A/B test to retrieve a fixed dataset, we make sure splits are correct (query 3 in SQL)
+3. We "redo" the A/B test to retrieve a fixed dataset (dataset 2), we make sure splits are correct (query 3 in SQL)
 4. We can now analyze the dataset (since no imbalance was discovered) and get the following results (query 4 in SQL):
 
 |treat|	kpi_rate|	kpi_lift|
